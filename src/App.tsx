@@ -21,7 +21,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          {import.meta.env.VITE_SOME_KEY}
+          {import.meta.env.VITE_SOME_KEY} and this is working
         </p>
       </div>
       <p className="read-the-docs">
